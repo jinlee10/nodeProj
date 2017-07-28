@@ -43,6 +43,7 @@ var fname = 'johncena.txt';
 
 ///////////////////////////////////////////////////////////////
 
+
 //읽기
 var newData = 'abcd';
 fs.readFile(fname, (err, data) => {
